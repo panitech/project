@@ -3,5 +3,5 @@
   tasks:
    - name: Create john account
      user:
-       name: john
-       state: present
+         name: john
+         state: present
