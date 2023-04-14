@@ -6,4 +6,5 @@
          name: john
          comment: "John Smith"
          groups: admin
+         uid: 3000
          state: present
