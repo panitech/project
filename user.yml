@@ -4,4 +4,6 @@
    - name: Create john account
      user:
          name: john
+         comment: "John Smith"
+         groups: admin
          state: present
